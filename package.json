@@ -13,7 +13,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
-    "react-native-fundamental": "../react-native-design-system-ui5/react-native-fundamental-1.0.0.tgz",
+    "react-native-fundamental": "../react-native-fundamental/react-native-fundamental-0.0.1.tgz",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
